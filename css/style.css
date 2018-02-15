@@ -9,6 +9,7 @@ header{
 	background: rgba(0,0,128,.7);/*rgb es colores normal, 
 	rgba los 3 primeros caracteres son de colores y el ultimo es transparencia entre 0-1*/
 	position: fixed;
+	z-index: 10;
 }
 
 .width{
@@ -73,4 +74,32 @@ nav ul li a:hover{
 @font-face{/*de esta manera agregamos un font nuevo a nuestra pagiona*/
 	font-family: rale;
 	src: url(../fonts/Raleway-Regular.ttf);
+}
+
+.width-leters{
+	top: 200px;
+	position: absolute;
+	width: 100%;
+	color: white;
+	text-align: center;
+	z-index: 9;
+}
+
+.slider-leters{
+	width: 80%;
+	margin: auto;
+	font-family: 
+}
+
+.slider-leters h1{
+	color: #fff;
+	font-family: rale;
+	font-size: 70px;
+}
+
+.slider-leters p{
+	color: #fff;
+	font-family: rale;
+	font-size: 25px;
+	padding-top: 50px;
 }
