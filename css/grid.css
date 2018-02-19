@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+h1,h2,h4,h5,h6{
+	text-transform: uppercase;
+	color: #444;
+	font-family: rale;
+}
+
+h2{
+	font-size: 26px;
+	color: #333;
+}
+
+h3{
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+	padding-top: 20px;
+	font-weight: normal;
+	color: #777;
+}
+
+.wrap{
+	width: 90%;
+	margin: auto;
+}
+
+.welcome{
+	margin-top: 50px;
+	text-align: center;
+}

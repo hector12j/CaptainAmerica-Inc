@@ -1,5 +1,4 @@
 $(document).ready(function(){
-  console.log($(window).height())
   $("#particles-js").css({"height":$(window).height() + "px"});
 });
 particlesJS('particles-js',
