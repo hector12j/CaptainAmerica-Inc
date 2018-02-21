@@ -103,3 +103,40 @@ nav ul li a:hover{
 	font-size: 25px;
 	padding-top: 50px;
 }
+
+.banner-1{
+	width: 100%;
+	background: #1a3a63;
+	clear: both;/* limpia el sitio desde este punto*/
+	padding: 30px 50px 50px 50px;
+	text-align: center;
+	transition: 0.6s;
+}
+
+.banner-1:hover{
+	background: #4b0607;
+	transition: 0.6s;
+}
+
+.banner-1:hover > h3,a{
+	color: #1a3a63;
+	transition: 0.6s;
+}
+
+.banner-1:hover a{
+	color: #1a3a63;
+	transition: 0.6s;
+}
+
+.banner-1 h3{
+	color: #4b0607;
+	font-size: 32px;
+	transition: 0.6s;
+}
+
+.banner-1 a{
+	color: #4b0607;
+	text-decoration: none;
+	margin-left: 10px;
+	transition: 0.6s;
+}
