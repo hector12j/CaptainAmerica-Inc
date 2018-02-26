@@ -140,3 +140,9 @@ nav ul li a:hover{
 	margin-left: 10px;
 	transition: 0.6s;
 }
+
+.column-3 svg{
+	float: left;
+	padding-right: 10px;
+	/*color: black;*/
+}

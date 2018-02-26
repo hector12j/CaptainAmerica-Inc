@@ -72,3 +72,8 @@ p{
 	width: 100%;
 	height: 250px;
 }
+
+h4.servicesH4{
+	text-align: left;
+	padding-bottom: 20px;
+}
