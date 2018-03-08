@@ -157,6 +157,7 @@ nav ul li a:hover{
 	background-size: cover;/*100% del ancho*/
 	background-attachment: fixed;/*posicion fija para la imagen*/
 	text-align: center;
+	margin-bottom: 50px;
 }
 
 .banner-2 h3{

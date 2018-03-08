@@ -43,11 +43,13 @@ p{
 .wrap{
 	width: 90%;
 	margin: auto;
+	clear: both;
 }
 
 .welcome{
 	margin-top: 50px;
 	text-align: center;
+	clear: both;
 }
 
 .column-container{
